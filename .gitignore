@@ -3,3 +3,6 @@
 
 #secrets
 .env
+
+#public imgs
+/public
