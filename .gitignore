@@ -4,5 +4,5 @@
 #secrets
 .env
 
-#public imgs
-/public
+#publicImgs
+/public/images
