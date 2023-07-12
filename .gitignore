@@ -3,3 +3,6 @@
 
 #secrets
 .env
+
+#Public Files
+/public
