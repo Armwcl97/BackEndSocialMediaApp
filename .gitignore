@@ -4,5 +4,10 @@
 #secrets
 .env
 
+<<<<<<< HEAD
 #public imgs
 /public
+=======
+#Public Files
+/public
+>>>>>>> af3a76c41b074284df767e0379d8fac11e2c3b9c
